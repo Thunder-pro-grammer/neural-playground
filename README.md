@@ -30,4 +30,4 @@ Why I built it:
 I built this project because I wanted to understand how neural networks learn. I’ve watched some AI tools perform amazing tasks and become curious about the details of what’s happening within the networks. I also made this project with the intention of practicing my python. I chose to make this a visualizer to help people better understand the changes to the weights within the network.
 
 AI Use:
-I did use AI to help me write code for some of the math.
+I did use little bit of AI help for UI.
